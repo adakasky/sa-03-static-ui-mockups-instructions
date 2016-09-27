@@ -76,7 +76,7 @@ simultaneously running the web server.
   installed with `npm install`, and the logic behind the `npm run
   serve` / `npm run build` commands. Do not mess with this file. The
   graders depend on the `npm run` commands working properly.
-  
+
 You will add your mockups in the `build/` folder as separate HTML
 files.
 
@@ -129,28 +129,28 @@ clicks on the tweet, Twitter unfolded a series of snarky comments
 about the tweet, and a *reply* box. Both of these things were not
 there before:
 
-{{<lightbox src="../../img/twitter_screen_02.png" >}}
+![Twitter Screen 2](/images/twitter_screen_02.png)
 
 Screen 03: A Twitter view of a single tweet in isolation. If the user
 shares the URL to the tweet with someone, this is the page they are
 brought to.
 
-{{<lightbox src="../../img/twitter_screen_03.png" >}}
+![Twitter Screen 3](/images/twitter_screen_03.png)
 
 Screen 04: The UCombinator Vice President's Twitter page. This page
 contains all of his tweets and retweets.
 
-{{<lightbox src="../../img/twitter_screen_04.png" >}}
+![Twitter Screen 4](/images/twitter_screen_04.png)
 
 Screen 05: Search results for "cute kittens". This screen comes up
 when a user searches for something.
 
-{{<lightbox src="../../img/twitter_screen_05.png" >}}
+![Twitter Screen 5](/images/twitter_screen_05.png)
 
 Screen 06: Composing a new tweet. This box comes up when the user hits
 the "Tweet" button in the upper-right corner.
 
-{{<lightbox src="../../img/twitter_screen_06.png" >}}
+![Twitter Screen 6](/images/twitter_screen_06.png)
 
 ...make sense? Each screen contains new visual widgets that were not
 there before.  Your startup's screen mockups should give UCombinator a
