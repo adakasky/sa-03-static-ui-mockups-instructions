@@ -1,3 +1,5 @@
+![UCombinator Logo](/images/ucombinator_logo.png)
+
 # Startup Assignment 03 - Static UI Mockups
 
 UCombinator is currently reviewing your product and feature pitches,
