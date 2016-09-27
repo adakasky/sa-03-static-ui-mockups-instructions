@@ -122,7 +122,7 @@ Twitter.
 Screen 01: My Twitter feed. This is what the UCombinator Vice
 President sees after he logs into Twitter:
 
-{{<lightbox src="../../img/twitter_screen_01.png" >}}
+![images/twitter_screen_01.png](twitter_screen_01.png)
 
 Screen 02: The same Twitter feed with a tweet selected. After the user
 clicks on the tweet, Twitter unfolded a series of snarky comments
