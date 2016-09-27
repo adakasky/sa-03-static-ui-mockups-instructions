@@ -1,4 +1,4 @@
-<img src="/images/ucombinator_logo.png" width="75%">
+<img src="/images/ucombinator_logo.png" width="100">
 
 # Startup Assignment 03 - Static UI Mockups
 
